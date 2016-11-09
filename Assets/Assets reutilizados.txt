@@ -1,0 +1,8 @@
+Cenário e plataformas
+	http://opengameart.org/content/abstract-platformer
+	
+UI
+	http://opengameart.org/content/ui-pack
+	
+Attribution Instructions: 
+	Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.
